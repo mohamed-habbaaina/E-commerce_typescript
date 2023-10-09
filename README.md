@@ -1,1 +1,1 @@
-# E-commerce_typescript
+# E-commerce Typescript
